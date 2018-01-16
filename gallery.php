@@ -16,6 +16,41 @@ include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
     <div class="container-wrap">
         <div id="fh5co-work">
             <h3>Kako vežbamo</h3>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="images/gallery1.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery1.jpg" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="images/gallery2.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery2.jpg" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="images/gallery3.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery3.jpg" class="img-responsive">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="images/gallery4.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery4.jpg" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="images/gallery5.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery5.jpg" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="images/gallery6.jpg" class="image-popup img-portfolio-detail">
+                        <img src="images/gallery6.jpg" class="img-responsive">
+                    </a>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-md-4">
                     <a href="images/portfolio-1.jpg" class="image-popup img-portfolio-detail">
@@ -44,11 +79,11 @@ include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
                         <img src="images/portfolio-5.jpg" class="img-responsive">
                     </a>
                 </div>
-                <div class="col-md-4">
-                    <a href="images/portfolio-6.jpg" class="image-popup img-portfolio-detail">
-                        <img src="images/portfolio-6.jpg" class="img-responsive">
-                    </a>
-                </div>
+<!--                <div class="col-md-4">-->
+<!--                    <a href="images/portfolio-6.jpg" class="image-popup img-portfolio-detail">-->
+<!--                        <img src="images/portfolio-6.jpg" class="img-responsive">-->
+<!--                    </a>-->
+<!--                </div>-->
             </div>
             <h3>Gde vežbamo</h3>
             <div class="row">
