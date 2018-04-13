@@ -1,6 +1,5 @@
 <?php
 include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
-
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -53,7 +52,7 @@ include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
                         <p>Takodje je igrala u dramskim predstavama I predstavama za decu.
                             Kao izvodjač nastupala je na festivalima u Japanu, Južnoj Koreji, SAD…
                             Milica je dobitnik nekoliko nagrada u oblasti umetničke igre. 2013. godine za izvodjenje u predstavi Yesterday, dobila je nagradu Smiljana Mandukić koja se dodeljuje najboljem
-                            igraču. 2015. Zajedno sa Igorom Korugom osvojila je prvo mesto I nagradu kritike, na festival Koreografskih minijatura u Beogradu.</p>
+                            igraču. 2015. Zajedno sa Igorom Korugom osvojila je prvo mesto I nagradu kritike, na festivalu koreografskih minijatura u Beogradu.</p>
                         <p>Predavala je Savremenu igru u baletskim školama u Beogradu I Pančevu.
                             2017. godine je osnovala Plesno Udruženje Fokus M u kome radi kao pedagog I koreograf.</p>
                         <p>

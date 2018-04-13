@@ -76,7 +76,7 @@ include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
                         <div class="desc">
                             <h3>Gde nas možete naći...</h3>
                             <p>Fokus M vežba na dve lokacije<br><strong>Palilula</strong> : Centar za kulturu Vlada Divljan<br><strong>Novi Beograd</strong> : T.C. Piramida</p>
-                            <h4><a href="work.php">Više...</a></h4>
+                            <h4><a href="classes.php">Više...</a></h4>
                         </div>
                     </div>
                 </div>

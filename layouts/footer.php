@@ -4,6 +4,7 @@
             <p>
             <ul class="fh5co-social-icons">
                 <li><a href="https://www.facebook.com/Plesno-udru%C5%BEenje-Fokus-M-557362454610291/" target="_blank"><i class="icon-facebook22"></i></a></li>
+                <li><a href="https://www.instagram.com/fokusm2017/" target="_blank"><i class="icon-instagram"></i></a></li>
             </ul>
             </p>
             <p>

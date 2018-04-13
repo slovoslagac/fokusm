@@ -1,6 +1,5 @@
 <?php
 include(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
-
 ?>
 <!DOCTYPE HTML>
 <html>
